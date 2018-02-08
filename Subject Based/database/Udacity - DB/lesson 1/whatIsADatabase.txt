@@ -1,0 +1,10 @@
+What is a Database?
+
+	- a model of reality 
+		
+		why use models?
+
+			* models are useful when you want to see and work on a real world thing 
+			* the cost of experimenting on models are way lower than doing in real life
+
+		when to use databases to create models?

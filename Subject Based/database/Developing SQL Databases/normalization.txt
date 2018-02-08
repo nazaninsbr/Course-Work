@@ -1,0 +1,85 @@
+normalization:
+	
+	ralational model for databases 
+
+	normalization in a process, a number of steps 
+
+	when we normalize data in the end the entities end up being seperate objects 
+
+	ensures we have a well designed database 
+
+	we look at our data and apply rules to it
+
+
+load after or before normalization?
+	
+	before:
+		you find out it is not well desinged and you have to change it 
+
+	after:
+		with no data it is impossible to normalize because you dont know what the data is 
+
+	so we would load a sample in that shows you what the data is but it isnt too big to cost us when we need to change the desing 
+
+
+Terms:
+	
+	* Entity 
+		a thing 
+		represented as a table 
+		group of individual things (people, records and ...)
+
+	* Attribute 
+		the columns of our table 
+		like the age of the person 
+
+	* Primary key 
+		unique identifier 
+		can be made up of multiple culomns that are not unique on their own but are when put together 
+		can be one value like your "Student ID"
+
+	* Candidate key 
+		columns that are unique
+		if we have more than one then there are more than one choices for primary key 
+
+	* Surrogate key 
+		when you normalize you might want to change this with primary key and see if the DB still works 
+
+	* Dependencies 
+		for example you can get the employees name when you have their ID, this is calle d a dependency 
+
+Denormalization:
+	
+	we have normalized and then in denormalizatoin we are going back to a system that have less tables 
+	the reason we might want to do this is that it takes a lot of time to answer quarries
+
+
+--->	unnormalized -> normalized -> denormalized 
+	
+Common Forms:
+	** every attribute must provide a fact about the key, the whole key and nothing but the key:D
+
+	First Normal Form:
+		cant have any repeating groups
+		because like if we have 3 phone numbers why not 4? or which should we search?
+			not efficient to search 
+		no repeating columns 
+
+	Second Normal Form:
+		non key columns cant depend on the key 
+
+	Third Normal Form:(BCNF)
+		important if we have multiple overlaping primary keys 
+		we should be able to apply the normalization to the other columns that could have been the primary key
+
+
++ Overnormalization
+
+
+
+
+
+
+
+
+

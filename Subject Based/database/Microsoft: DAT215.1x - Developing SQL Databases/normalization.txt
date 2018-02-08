@@ -1,0 +1,15 @@
+entity relationship modeling:
+
+	can be anything 
+	a person, a thing or a conceptual (not physical thing)
+
+normalize a database:
+	
+	ensures we have a well designed database for most of our systems
+	applying rules to our data
+	applying rules to end up with that entity relationship model 
+
+load my data before or after I normalize?
+
+	if you insert before then you need to change it after you normalize the database
+	but if you insert it after then it is near imposible to normalize the database because you dont know what is in it 

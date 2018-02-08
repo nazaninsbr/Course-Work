@@ -1,0 +1,1 @@
+document.write("<p>This is what <strong>matters</strong></p>");
