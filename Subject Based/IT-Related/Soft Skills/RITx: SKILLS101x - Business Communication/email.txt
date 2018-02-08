@@ -1,0 +1,3 @@
+* re-read
+* dont use long blocks of text , use short paragraphs, lists or ...
+* clarify the reason you are sending the email
