@@ -1,0 +1,49 @@
+Homo sapiens = man the wise --> because our intelligence is so important to us 
+
+AI --> to understand AND build intelligent entities
+
+Rationality (ideal performance) = a system is rational if it does the right thing given what it knows 
+
+{
+	human centered approach: [
+		empirical science
+		involving observations 
+		hypotheses about human behavior
+	]
+	rationalist approach : [
+		mathemathics 
+		engineering 
+	]
+}
+
+four approaches:
+	1. thinking humanly {
+		Congnitive Modeling Approach:
+			
+	}
+	2. acting humanly {
+		Turing Test : 
+			- operational definition of intelligence 
+			- computer passes the test if the human can not tell if the other one is a computer or a human 
+			- if it wants to pass the computer has to have these capcabilities:
+				* natural language processing (communicate in english)
+				* knowledge representation (store waht it knows or hears)
+				* automated reasoning (use info to draw conclusion)
+				* machine learning (detect and extrapolate patterns, adapt to new circumstances)
+			- physical simulation of a person is unnecesary for intelligence 
+
+		Total Turing Test :
+			- include video signal to test subject's perceptual ability 
+			- capabilities:
+				* computer vision (to percieve objects)
+				* robotics (manipulate objects and move about)
+	}
+	3. thinking rationally {
+
+	}
+	4. acting rationally {
+
+	}
+
+
+

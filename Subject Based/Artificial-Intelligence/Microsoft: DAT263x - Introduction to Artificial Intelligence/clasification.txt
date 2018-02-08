@@ -1,0 +1,35 @@
+another kind of supervised learning,
+classification.
+Classification is a technique that we can use to predict which
+class, or category, something belongs to.
+The simplest variant of this is binary classification where we predict whether an entity belongs to one of two classes.
+It's often used to determine if something is true or
+false about the entity.
+For example,
+suppose we take a number of patients in our health clinic,
+and we gather some personal details, and run some tests, and
+we can identify which patients are diabetic and which are not.
+We can learn a function that can be applied to these patient
+features and give the result 1 for
+patients that are diabetic, and 0 for patients that aren't.
+More generally, a binary classifier is a function that
+can be applied to features X to produce a Y value of 1 or 0.
+Now, the function won't actually calculate an absolute value
+of 1 or 0, it will calculate a value between 1 and 0,
+and we'll use a threshold value
+to decide whether the result should be counted as a 1 or a 0.
+When you use the model to predict values,
+the resulting value is classed as a 1 or
+a 0 depending on which side of the threshold line it falls.
+Because classification is a supervised learning technique,
+we withhold some of the test data to validate the model
+using known labels.
+Cases where the model predicts a 1 for a test observation that
+actually has a value, a label value of 1, are considered true
+positives, and similarly cases where the model predicts 0, and
+the actual label is 0, are true negatives.
+If the model predicts 1, but the actual label is 0,
+well that's a false positive, and if the model predicts 0,
+but the actual value is 1, well that's a false negative.
+Now the choice of threshold determines how predictions
+are assigned to classes.

@@ -1,0 +1,34 @@
+Brief History:
+
+	ARPANet
+
+		started with the goal of connecting academic computers and institutions 
+
+	TCP/IP
+
+	Flag day 
+
+
+Problems and Growing Pain:
+
+	1. running out of addresses 
+	2. congestion control (math offered load to available capacity)
+	3. routing (finding paths to reach destination)
+	4. security 
+	5. denial of service 
+
+
+Internet Design Principles:
+	
+	http://ccr.sigcomm.org/archive/1995/jan95/ccr-9501-clark.pdf 
+
+		read the above paper 
+
+Goal:
+
+	multiplexed utilization of existing interconnected networks 
+	
+	major parst:
+
+		- sharing available connections and resources 
+		- interconnects 

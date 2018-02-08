@@ -1,0 +1,22 @@
+Completed Courses:
+
+1. Linux command line basics
+2. Make your own 2048
+3. Writing READMEs
+4. Shell workshop
+5. Swift for beginners
+6. Swift for Developers
+7. Localization essentials
+8. Programming Foundations with Python
+9. Intro to HTML and CSS
+10. GitHub and collaboration
+11. Introduction to Programming in Python
+12. Intro to Java: Functional Programming
+13. Intro to JavaScript
+14. How to use Git and GitHub
+15. EigenValue and EigenVector
+16. Introduction to Virtual Reality
+
+
+
+(stopped working on) College Algebra (because the concepts were actually high school algebra and the amount of time needed to complete it was not worth the amount of things I would have learned)
