@@ -9,3 +9,11 @@ Support agent:
 	- create self help assets 
 	- improves quality and productivity 
 	- delivers efficient trouble shooting 
+
+5 things that matter to customers:
+	+ resolve my problem 
+	+ value me 
+	+ make it easy 
+	+ create trust
+	+ make me a fan
+

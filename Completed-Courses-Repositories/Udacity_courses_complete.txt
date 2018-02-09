@@ -1,22 +1,28 @@
 Completed Courses:
 
-1. Linux command line basics
-2. Make your own 2048
-3. Writing READMEs
-4. Shell workshop
-5. Swift for beginners
-6. Swift for Developers
-7. Localization essentials
-8. Programming Foundations with Python
-9. Intro to HTML and CSS
-10. GitHub and collaboration
-11. Introduction to Programming in Python
-12. Intro to Java: Functional Programming
-13. Intro to JavaScript
-14. How to use Git and GitHub
-15. EigenValue and EigenVector
-16. Introduction to Virtual Reality
+** Developer Essentials
+
+1. Writing READMEs
+2. Linux Command Line Basics
+3. Shell Workshop
+4. GitHub & Collaboration
+5. Localization Essentials
 
 
+** Web Development 
 
-(stopped working on) College Algebra (because the concepts were actually high school algebra and the amount of time needed to complete it was not worth the amount of things I would have learned)
+1. Intro to JavaScript
+2. GitHub & Collaboration
+3. Programming Foundations with Python
+4. Linux Command Line Basics
+5. Introduction to Python Programming
+6. How to Use Git and GitHub
+7. 
+
+
+** Software Engineering 
+
+1. Intro to Java: Functional Programming
+2. How to Use Git and GitHub
+3. Programming Foundations with Python
+4. 
