@@ -17,7 +17,7 @@ Completed Courses:
 4. Linux Command Line Basics
 5. Introduction to Python Programming
 6. How to Use Git and GitHub
-7. 
+7. Intro to HTML and CSS
 
 
 ** Software Engineering 
