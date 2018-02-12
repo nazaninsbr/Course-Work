@@ -18,6 +18,7 @@ Completed Courses:
 5. Introduction to Python Programming
 6. How to Use Git and GitHub
 7. Intro to HTML and CSS
+8. Intro to jQuery 
 
 
 ** Software Engineering 
