@@ -1,29 +1,18 @@
 Completed Courses:
 
-** Developer Essentials
-
 1. Writing READMEs
 2. Linux Command Line Basics
 3. Shell Workshop
 4. GitHub & Collaboration
 5. Localization Essentials
-
-
-** Web Development 
-
-1. Intro to JavaScript
-2. GitHub & Collaboration
-3. Programming Foundations with Python
-4. Linux Command Line Basics
-5. Introduction to Python Programming
-6. How to Use Git and GitHub
-7. Intro to HTML and CSS
-8. Intro to jQuery 
-
-
-** Software Engineering 
-
-1. Intro to Java: Functional Programming
-2. How to Use Git and GitHub
-3. Programming Foundations with Python
-4. 
+6. Intro to JavaScript
+7. Programming Foundations with Python
+8. Introduction to Python Programming
+9. How to Use Git and GitHub
+10. Intro to HTML and CSS
+11. Intro to jQuery 
+12. Intro to Java: Functional Programming
+13. Swift for beginners
+14. Swift for Developers
+15. Make your own 2048
+16. EigenValue and EigenVector
