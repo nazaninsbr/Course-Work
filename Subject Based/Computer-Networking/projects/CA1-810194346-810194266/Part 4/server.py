@@ -9,15 +9,15 @@ class socketProgServer():
 		self.port = 8000
 
 	def getIP(self):
-		self.ip = input("IP: ")
+		self.ip = raw_input("IP: ")
 
 	def setUpServer(self):
-		print("Listening...")
+		print "Listening..."
 		serverSocket = socket(AF_INET, SOCK_DGRAM)
 		serverSocket.bind((self.ip, self.port))
 		while 1:
 			message, clientAddress = serverSocket.recvfrom(self.port)
-			print("Recieved Message: "+ message.decode())
+			print "Recieved Message: "+ message.decode()
 			serverSocket.sendto(self.response.encode(), clientAddress)
 
 if __name__ == '__main__':

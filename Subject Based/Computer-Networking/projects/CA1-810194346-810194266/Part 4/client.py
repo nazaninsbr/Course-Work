@@ -8,7 +8,7 @@ class socketProgClient():
 
 	def getIPAddresses(self):
 		while True:
-			inputS = input('IP (will stop if you enter q) : ')
+			inputS = raw_input('IP (will stop if you enter q) : ')
 			if inputS != 'q':
 				self.ips.append(inputS)
 			else:
@@ -18,7 +18,7 @@ class socketProgClient():
 		clientSocket = socket(AF_INET, SOCK_DGRAM)
 		clientSocket.sendto(message.encode(),(ip, self.port))
 		modifiedMessage, serverAddress = clientSocket.recvfrom(self.port)
-		print("Recieved Message: "+ modifiedMessage.decode())
+		print "Recieved Message: "+ modifiedMessage.decode()
 		clientSocket.close()
 
 
@@ -28,14 +28,14 @@ class socketProgClient():
 			ts1 = time.time()
 			self.sendMessageToServer(thisIp, message)
 			te1 = time.time()
-			print("for IP = "+thisIp+" time was: "+str(te1 - ts1))
+			print "for IP = "+thisIp+" time was: "+str(1000*(te1 - ts1))
 		te = time.time()
 		return (te-ts)
 
 	def findTimeDifference(self):
 		tshortmessage = self.findMessageTime('c')
-		tlongmessage = self.findMessageTime('adjlajsldjfl;ajdsfljshgalkjdflkjdhgoijdslknhgiuojfdkmvcnvbghurioejdfknvjghiofjdknhgiojedknjfdhgijodfknfhgrijdsfknfhgriojdsnfhgprieojds')
-		print("total difference: "+str(tshortmessage - tlongmessage))
+		tlongmessage = self.findMessageTime('a'*50000)
+		print "total difference: "+str(1000*(tshortmessage - tlongmessage))
 
 if __name__ == '__main__':
 	sc = socketProgClient()
