@@ -1,0 +1,5 @@
+1. mysql -u root -p
+2. create the database and the user that can access it 
+3. exit 
+4. mysql -u userNameOfPart2 -p
+5. use db_name_of_part2

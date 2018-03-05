@@ -1,0 +1,13 @@
+insert into Subjects values ('1', 'music');
+insert into Subjects values ('2', 'SQL');
+insert into Subjects values ('43', 'books');
+insert into Users values ('nazanin', 'sabri', 'ns',0, 0, 0, NULL, NULL, NULL, 0);
+insert into Posts values ('1', "what is the best song ever?", 0, 'ns', NULL, NULL);
+insert into Questions values ('90', '1', '1');
+insert into Posts values ('2', "boom booom", 0, 'ns', NULL, NULL);
+insert into Answers values ('1', '1', '2');
+insert into Users values ('bita', 'hellat', 'biti', 0, 0, 0, NULL, NULL, NULL, 0);
+insert into Posts values ('3', "does this line of code work in SQL?", 0, 'biti', NULL, NULL);
+insert into Questions values ('23', '3', '2');
+insert into Posts values ('4', "Yes", 0, 'ns', NULL, NULL);
+insert into Answers values ('3', '2', '4');
