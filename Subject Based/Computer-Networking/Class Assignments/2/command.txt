@@ -1,0 +1,3 @@
+to get the pdf output please run the following command in the terminal:
+		
+		xelatex output.tex
