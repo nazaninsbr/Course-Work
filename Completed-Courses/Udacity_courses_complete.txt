@@ -16,3 +16,5 @@ Completed Courses:
 14. Swift for Developers
 15. Make your own 2048
 16. EigenValue and EigenVector
+17. Networking for Web Developers
+18. Introduction to Virtual Reality
