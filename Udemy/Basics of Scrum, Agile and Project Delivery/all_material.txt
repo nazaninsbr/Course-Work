@@ -1,0 +1,92 @@
+projects are impacted by
+	
+	time 
+	cost
+	scope
+	quality 
+	resources 
+	organization capabilities 
+	other limitations 
+
+sprint 
+	
+	short time spans in which certain amount of work must be done
+
+	each sprint begins with a sprint planning meeting where user stories are considered for inclusion in the sprint 
+
+	a sprint lasts 1 - 6 weeks 
+
+	during sprint daily standup meatings are held 
+
+	sprint review meeting 
+
+why use scrum?
+	
+	adaptability 
+		epirical process control and iterative delivery make projects adaptable and open to incorporating change when it occurs
+
+	customer centric 
+		ensures a costumer-oriented framework in a scrum-controlled project
+
+	continuous delivery of value
+		ship deliverable as often as possible 
+
+	early delivery of high value 
+
+	transparency 
+
+	continuous improvement 
+
+	sustainable pace 
+
+	efficient development process
+
+	effective deliverables
+
+	collective ownership
+
+	high velocity 
+
+	innovatie enviroment 
+
+convene scrum of scrums process
+
+	effective implementation of large projects 
+
+	coordinate different scrum teams 
+
+SBOK Guide 
+
+	for the scrum core team members 
+		product owner
+		scrum master
+		scrum team members 
+
+
+	principles 
+		empirical process control 
+		self-organization
+		collaboration 
+		value-based prioritization 
+		time-boxing 
+		iterative development
+
+	aspects
+		organization 
+		business justification 
+		quality 
+		change 
+		risk
+
+	processes
+		five phases
+			initiate
+			plan and estimate
+			implement
+			review and petrospect 
+			release 
+
+
+
+
+
